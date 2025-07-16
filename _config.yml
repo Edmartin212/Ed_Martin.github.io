@@ -5,6 +5,5 @@ plugins:
 
 title: [Ed martin's portfolio forcybersecurity projects]
 description: [this page is a overview of the projects I have been working on and other acheivements ]
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-hacker
